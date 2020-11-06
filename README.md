@@ -1,1 +1,1 @@
-# B460M-Motaor-WIFI
+# B460M-Motaor-WIFI I7-10700
